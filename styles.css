@@ -1,0 +1,31 @@
+@font-face {
+    font-family: gorillaz;
+    src: url("gorillaz_1.ttf");
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+#homepage-header{
+    background-image: url("gorillaz_homepage_header.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 190px;
+    text-align: center;
+    border: 10px;
+
+}
+
+#homepage-header-txt{
+    margin: 290px;
+    color: red;
+    font-family: gorillaz;
+    font-size: xx-large;
+}
+
+#homepage-links{
+    color:aliceblue;
+    
+}
